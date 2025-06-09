@@ -6,7 +6,7 @@
 ## 🔎 Sobre mim
 - 📘  Atualmente estou estudando o 5º semestre do curso Bacharel Engenharia de Software pela Uniasselvi;
 
-- 👀 Estou a procura de uma vaga como Estagiário, Trainee ou Junior na área de Desenvolvimento de Software;
+- 👀 Estou em transição de carreira e realizando meu sonho,  procuro uma vaga como Estagiário, Trainee ou Junior na área de Desenvolvimento de Software;
 
 - 🌿 Tenho interesse em Back End, Front End, Desenvolvedor de Aplicativos, Banco de dados e desenvolvimento de software em geral;
 - ✉️ Como me encontrar: gabriel.simoes1997@outlook.com
